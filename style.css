@@ -1,0 +1,19 @@
+body{
+    color: black;
+    background-color: rgb(12, 226, 191);
+}
+
+.heading{
+    width: 50%;
+      font-size: 20px;
+}
+
+.person{
+    color: rgb(185, 54, 7);
+}
+
+#Webcam{
+    border: black dashed 2px;
+    width: 350px;
+    height: 300px;
+}
